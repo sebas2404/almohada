@@ -4,6 +4,8 @@
    
    
   .pipi {
+    position: relative;
+    right: 50%;
     border: 2px solid green;
     background-color: burlywood;
     color: blue;
