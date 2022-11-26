@@ -6,10 +6,10 @@
   .pipi {
     position: relative;
     right: 400px;
-    text-align: center;
-    border: 2px solid blue;
+    text-align: right;
+    border: 2px solid green;
     background-color: burlywood;
-    color: darkred;
+    color: black;
   }
    
    
