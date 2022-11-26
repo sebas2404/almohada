@@ -5,11 +5,11 @@
    
   .pipi {
     position: relative;
-    right: 400px;
+    right: 30%;
     text-align: left;
     border: 2px solid green;
     background-color: burlywood;
-    color: pink;
+    color: blue;
   }
    
    
