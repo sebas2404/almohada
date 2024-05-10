@@ -9,7 +9,7 @@
     left: 5%;
     text-align: left;
     border: 2px solid green;
-    background-color: burlywood;
+    background-color: rgb(223, 48, 135);;
     color: blue;
   }
    
@@ -27,5 +27,5 @@
   strong {
     font-size: 30px;
     color: darkred;
-    background-color: burlywood;
+    background-color: rgb(223, 48, 135);
   }
